@@ -440,6 +440,7 @@ mark {
   border-radius: 50%;
 }
 
+
 /* --- Section title ---*/
 .section-title .section-title-1 {
   color: #E72463;
@@ -2693,8 +2694,10 @@ mark {
   }
 }
 
+
 .footer-area .single-footer-widget .footer-logo {
-  margin-bottom: 18px;
+  margin-bottom:18px;
+ background-color: #2867B2;
 }
 
 .footer-area .single-footer-widget .desc-content {
